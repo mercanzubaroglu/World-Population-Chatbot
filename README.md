@@ -57,5 +57,12 @@
 | `NumPy`                 | Sayısal veri dönüşümleri / Numerical ops          |
 
 ---
+> 📌 **Not:** Bu proje başlangıçta bir `.ipynb` (Jupyter Notebook) dosyası olarak geliştirilmiştir.  
+> Ancak, Streamlit yalnızca `.py` (Python script) dosyaları üzerinden çalışabildiği için komut satırından (CMD) çalıştırılabilmesi amacıyla `.py` uzantısına dönüştürülmüştür.
+
+> 📌 **Note:** This project was originally developed as a `.ipynb` (Jupyter Notebook) file.  
+> However, since Streamlit runs only with `.py` (Python script) files, it was converted to `.py` format to enable execution via command line (CMD).
+
+---
 
 
